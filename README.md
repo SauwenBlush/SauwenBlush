@@ -1,17 +1,11 @@
 <div align="center">
 
-<img src="assets/banner.gif" width="100%" alt="sauwen">
+<img src="assets/banner.gif" width="100%" alt="sauwen · SauwenBlush">
 
-<sub>ESCRIBE AQUÍ TU DESCRIPCIÓN — 2 o 3 líneas, lo que quieras decir de ti.</sub>
+<img src="assets/psy.gif" width="100%" alt="El Psy Kongroo">
 
-<img src="assets/page.gif" width="100%" alt="">
+<img src="assets/galeria.gif" width="100%" alt="">
 
-<details>
-<summary><sub>abrir</sub></summary>
-<br>
-<img src="assets/secreto.jpg" width="46%" alt="">
-</details>
-
-<a href="https://mx.pinterest.com/sauwengod/">Pinterest</a> &nbsp;·&nbsp; <a href="https://www.tiktok.com/@sauwen.god">TikTok</a>
+<a href="https://mx.pinterest.com/sauwengod/"><img src="assets/pinterest.gif" width="48%" alt="Pinterest"></a>&nbsp;&nbsp;<a href="https://www.tiktok.com/@sauwen.god"><img src="assets/tiktok.gif" width="48%" alt="TikTok"></a>
 
 </div>
